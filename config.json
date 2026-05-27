@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerstringify",
+        "uuid": 23436400,
+        "checksum": "k83hsa"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
